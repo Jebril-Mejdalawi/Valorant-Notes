@@ -1,0 +1,2 @@
+# Valorant-Notes
+Educational Project
